@@ -1,0 +1,20 @@
+   XXXX   XXXXX  XXXXXXXX XXXXXXXXXXXXXXXXXXX          XXXXXXXXXXXXXXXXX XXXXXXXXXXXXX XXXXXXXXXXX  
+   XXXX   XXXXX  XXXXXXXX XXXXXXXXXX XXXXXXXX       XXX    XXXXXXXXXXX               XXXXX          
+                  XXXXX    XXXXXX     XXXXX          X                      TT       TT         XX  
+ TT                                                                        TTTT                     
+ TT                                                                   TT                            
+                                                                                                    
+        VVV                       TT                                                                
+       VVVVV                     TTTT           XXXXXXXXXXX                   XXXXX    XXXXX        
+       VVVVV        XX            TT             XXXXXXXXX                    XX          XX        
+        VVV         XX                            XXXXXXX                     XX          XX        
+                    XX                             XXXXX                      XX          XX        
+ TT                 XXXXXXXXXXXXXXXX                XXX                       XX          XX        
+ TT                  XXXXXXXXXXXXXXX                 X      TTTTTTTTT         XX          XX        
+                                                             TTTTT            XX          XX        
+    TT                                                      TTTTTTT           XXXXXXXXXXXXXX    TT  
+    TT                                                    TTTTT                                     
+                                                                                                    
+      TT                              VVV                                                       VV  
+      TT                             VVVVV                      XXXXX                         VVVV  
+          TT                          VVV                       XXXXX                            V  
